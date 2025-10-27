@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{33482956-84fe-4134-becd-fe18a30b066c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sdk">
+      <UniqueIdentifier>{b956de5c-6e35-4c3e-ac28-d0d4da1e2299}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Helpers">
+      <UniqueIdentifier>{52074d17-f349-4ed7-ba4b-97d481610d1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sdk\Math">
+      <UniqueIdentifier>{695405f4-82bc-4479-a0bf-a6cc8603ee7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{bf284f2b-299c-45c8-ad4e-9a3449d8e968}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Helpers\Globals">
+      <UniqueIdentifier>{74995fbe-216a-4d12-8bf9-3f10124cbdfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sdk\GameSDK">
+      <UniqueIdentifier>{6a142fba-89be-434f-bb64-53980b051e41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sdk\Player Data">
+      <UniqueIdentifier>{e90d9cf9-bde4-4755-85e9-ff8ac0d44cde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sdk\Player Drawing">
+      <UniqueIdentifier>{509edecd-7d97-43e3-9172-2e97a4032864}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Helpers\misc">
+      <UniqueIdentifier>{0be0142d-e6f3-43f2-852c-46398058c8e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Helpers\misc\Menu Helpers">
+      <UniqueIdentifier>{d57beb4a-e69f-46dd-9169-0222cd852102}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config">
+      <UniqueIdentifier>{52c5a55a-dfaa-4b9c-88fd-1b3561872a12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Third Party">
+      <UniqueIdentifier>{a80c048f-186a-4433-8e36-5db224a3f3bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Third Party\MinHook">
+      <UniqueIdentifier>{5175a334-0ab1-4f04-9607-e8405231f9c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Third Party\MinHook\HDE">
+      <UniqueIdentifier>{f5d6eeaf-a340-427b-bd71-fb40b3792e15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Third Party\Keiro">
+      <UniqueIdentifier>{6549ee59-ec87-42c8-b8c6-8ca76e0d8542}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Third Party\Zydis">
+      <UniqueIdentifier>{ca7c7afc-c507-4e42-a03a-6faf8a8dcf8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Third Party\KeyAuth">
+      <UniqueIdentifier>{397bfa2d-d39c-429f-8e99-030e83755fac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Third Party\KeyAuth\Backend">
+      <UniqueIdentifier>{1843b6d8-927e-44cd-8763-9592ee07a7b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Third Party\KeyAuth\Frontend">
+      <UniqueIdentifier>{84b7ac92-e7bc-4475-8707-3c54049f230a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Third Party\Json">
+      <UniqueIdentifier>{fd36d496-d6b0-4998-9f6b-4fa75d95d6f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Third Party\Curl">
+      <UniqueIdentifier>{027c3184-5e87-4c14-aac3-74ece0107a38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Third Party\Curl\FrontEnd">
+      <UniqueIdentifier>{c89970df-e430-42d6-a975-2b1cd945bf67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DLL">
+      <UniqueIdentifier>{6f89e9bf-04eb-49be-bdbe-96c7a6be9e61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DLL\DLL Init">
+      <UniqueIdentifier>{5ed9fa39-a223-4046-8b07-0525251c0efd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DLL\DLL Main">
+      <UniqueIdentifier>{9b262eda-6c68-48f5-bcbf-2d164823a6c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lobby Info">
+      <UniqueIdentifier>{0cc21baa-d2df-4d1b-9187-b353321e859e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hooks">
+      <UniqueIdentifier>{bffef584-385a-47b4-8e86-f6a4a069bd5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fonts">
+      <UniqueIdentifier>{2392a1cf-acff-41a7-bbc2-77673b51f984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImGui">
+      <UniqueIdentifier>{2ac5c02c-2a10-4c32-8676-db6631e02f7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scanners">
+      <UniqueIdentifier>{8e4af522-e085-4fdc-9daf-1469e63aa1b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Third Party\Spoof Call">
+      <UniqueIdentifier>{60b4a1ed-846a-48af-818f-5d3a3843d23f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vector">
+      <UniqueIdentifier>{93c7038f-6155-47bc-b763-b04d1c1c98f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pattern Scanners">
+      <UniqueIdentifier>{4aa1a7db-9739-4fca-b17f-29b86376c8d7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Memory\Memory.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\Sdk.h">
+      <Filter>Sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="Math\Math.h">
+      <Filter>Sdk\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu\Misc\Menu Helper.h">
+      <Filter>Helpers\misc\Menu Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Globals\Globals.h">
+      <Filter>Helpers\Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu\Misc\Render.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSDK\GameSDK.h">
+      <Filter>Sdk\GameSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Structures\Structures.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Memory\address.hpp" />
+    <ClInclude Include="Entity Data\PlayerData.hpp">
+      <Filter>Sdk\Player Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity Drawing\Player_Drawing.hpp">
+      <Filter>Sdk\Player Drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="Globals\FrameWork.h">
+      <Filter>Helpers\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Config\Config2.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="Init\DLL Init.h">
+      <Filter>DLL\DLL Init</Filter>
+    </ClInclude>
+    <ClInclude Include="Lobby Info\Lobby_Info.h">
+      <Filter>Lobby Info</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks\Hooks.h">
+      <Filter>Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="Fonts\Font.h">
+      <Filter>Fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_draw_api.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_dx12.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_win32.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_internal.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_settings.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\ImGui_ShaderBlobs.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_image.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_rectpack.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_textedit.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_truetype.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\Kiero\Kiero.h">
+      <Filter>Third Party\Keiro</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\Json\Json.hpp">
+      <Filter>Third Party\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\Json\Json_fwd.hpp">
+      <Filter>Third Party\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\MinHook\hde\hde32.h">
+      <Filter>Third Party\MinHook\HDE</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\MinHook\hde\hde64.h">
+      <Filter>Third Party\MinHook\HDE</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\MinHook\hde\pstdint.h">
+      <Filter>Third Party\MinHook\HDE</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\MinHook\hde\table32.h">
+      <Filter>Third Party\MinHook\HDE</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\MinHook\hde\table64.h">
+      <Filter>Third Party\MinHook\HDE</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\MinHook\buffer.h">
+      <Filter>Third Party\MinHook</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\MinHook\MinHook.h">
+      <Filter>Third Party\MinHook</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\MinHook\trampoline.h">
+      <Filter>Third Party\MinHook</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\Zydis\Zydis.h">
+      <Filter>Third Party\Zydis</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\SpoofCall\Spoof Call.h">
+      <Filter>Third Party\Spoof Call</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\LazyImporter.h">
+      <Filter>Third Party</Filter>
+    </ClInclude>
+    <ClInclude Include="Third Party\xor.h">
+      <Filter>Third Party</Filter>
+    </ClInclude>
+    <ClInclude Include="Scanners\Scanners.h">
+      <Filter>Scanners</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector\Angle.h">
+      <Filter>Vector</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector\Vector2.h">
+      <Filter>Vector</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector\Vector3.h">
+      <Filter>Vector</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu\Menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Pattern Scanners\PatternScanners.h">
+      <Filter>Pattern Scanners</Filter>
+    </ClInclude>
+    <ClInclude Include="Fonts\Icons.h" />
+    <ClInclude Include="D3D\D3DDrawing.h" />
+    <ClInclude Include="Loot Data\Loot data.h" />
+    <ClInclude Include="Loot Drawing\Loot Drawing.h" />
+    <ClInclude Include="Aimbot\Aimbot.h" />
+    <ClInclude Include="Controller\Controller.h" />
+    <ClInclude Include="Exploits\Exploits.h" />
+    <ClInclude Include="UserCMD\UserCMD.hpp" />
+    <ClInclude Include="Menu\Misc\image.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Memory\Memory.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\Sdk.cpp">
+      <Filter>Sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="Math\Math.cpp">
+      <Filter>Sdk\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu\Misc\Menu Helper.cpp">
+      <Filter>Helpers\misc\Menu Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="Globals\Globals.cpp">
+      <Filter>Helpers\Globals</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu\Misc\Render.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSDK\GameSDK.cpp">
+      <Filter>Sdk\GameSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity Data\PlayerData.cpp">
+      <Filter>Sdk\Player Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity Drawing\Player_Drawing.cpp">
+      <Filter>Sdk\Player Drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="Config\Config2.cpp">
+      <Filter>Config</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>DLL\DLL Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Init\DLL Init.cpp">
+      <Filter>DLL\DLL Init</Filter>
+    </ClCompile>
+    <ClCompile Include="Lobby Info\Lobby_Info.cpp">
+      <Filter>Lobby Info</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks\Hooks.cpp">
+      <Filter>Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_draw.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_dx12.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_win32.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\ImGui_ShaderBlobs.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_tables.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_widgets.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Third Party\Kiero\Kiero.cpp">
+      <Filter>Third Party\Keiro</Filter>
+    </ClCompile>
+    <ClCompile Include="Third Party\MinHook\hde\hde32.c">
+      <Filter>Third Party\MinHook\HDE</Filter>
+    </ClCompile>
+    <ClCompile Include="Third Party\MinHook\hde\hde64.c">
+      <Filter>Third Party\MinHook\HDE</Filter>
+    </ClCompile>
+    <ClCompile Include="Third Party\MinHook\buffer.c">
+      <Filter>Third Party\MinHook</Filter>
+    </ClCompile>
+    <ClCompile Include="Third Party\MinHook\hook.c">
+      <Filter>Third Party\MinHook</Filter>
+    </ClCompile>
+    <ClCompile Include="Third Party\MinHook\trampoline.c">
+      <Filter>Third Party\MinHook</Filter>
+    </ClCompile>
+    <ClCompile Include="Third Party\Zydis\Zydis.c">
+      <Filter>Third Party\Zydis</Filter>
+    </ClCompile>
+    <ClCompile Include="Scanners\Scanners.cpp">
+      <Filter>Scanners</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector\Vector2.cpp">
+      <Filter>Vector</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu\Menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Pattern Scanners\PatternScanners.cpp">
+      <Filter>Pattern Scanners</Filter>
+    </ClCompile>
+    <ClCompile Include="D3D\D3DDrawing.cpp" />
+    <ClCompile Include="Loot Data\Loot Data.cpp" />
+    <ClCompile Include="Loot Drawing\Loot Drawing.cpp" />
+    <ClCompile Include="Aimbot\Aimbot.cpp" />
+    <ClCompile Include="Controller\Controller.cpp" />
+    <ClCompile Include="Exploits\Exploits.cpp" />
+    <ClCompile Include="UserCMD\UserCMD.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="Third Party\SpoofCall\Spoof Call.asm">
+      <Filter>Third Party\Spoof Call</Filter>
+    </MASM>
+  </ItemGroup>
+</Project>
