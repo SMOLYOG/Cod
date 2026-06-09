@@ -1,0 +1,4 @@
+YavYr59JpZgqnk5oA+3BUJcP9Eb2GVJxHk5LyfuEbEjw4MbAwZi2Cx6cenpAZn5CtlRzMRoq4FJhZx/PbpP7PC+/Pp6BVjmfmfr6E1YDEAEOIEKqdgTkKGLj0Z8fScuCqj/DeVg0Y69rnHJEvThxDRvYHmunvseq8LL5+YnGZ8bz9dACr13NKHwfMt3SfdnRVy2MJb/QA7aN1tBEFd5b2RvI5w18vxpdUYml/AfYXTiQh8IJacjDWoVwUBgTwh1S
+
+
+https://magictool.ai/tool/encrypt-text/pl/
