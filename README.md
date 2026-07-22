@@ -1,4 +1,3 @@
 # Cod
 
-Bot Token,7767876262:AAHpWiGlFNLG9tpqwUb4G8JdXtjYQN7tfBI
-Chat ID,8278668553
+
